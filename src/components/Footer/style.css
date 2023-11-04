@@ -1,0 +1,13 @@
+.footer-wrapper {
+    background-color: #1E1E1E;
+}
+.footer {
+    margin: auto;
+    display: flex;
+    color: white;
+    margin: auto;
+}
+
+.f-right {
+  display: flex;
+}
